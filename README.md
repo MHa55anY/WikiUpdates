@@ -1,4 +1,4 @@
-### Directions for running - also available in README file in GitHub Repo:
+### Directions for running:
 
 1. Download and  Extract the zip file to your preferred location and open "sse-client" folder
 2. Run "npm install" in the terminal-- this will install the required packages
